@@ -1,0 +1,26 @@
+h1{
+	color: green
+}
+
+div{
+	background-color: black;
+}
+.no-background{
+	background-color: white;
+}
+
+.header{
+	background-color: yellow
+}
+
+.profile {
+	margin-top: 300px
+}
+
+img{
+	border: 100px groove blue
+}
+
+ul{
+	list-style: none;
+}

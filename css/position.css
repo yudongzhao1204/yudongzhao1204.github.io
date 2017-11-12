@@ -1,0 +1,43 @@
+.red{
+	background-color: red
+}
+.green{
+	background-color: green
+}
+
+.picture{
+	width:70px;
+	height:70px;
+	border-radius:70px;
+}
+
+.picture-block{
+	border: 6px dotted grey;
+	margin-top: 20px;
+}
+
+.info{
+	border: 6px solid grey;
+	margin-top: 20px;
+}
+
+.coding-skills{
+	border: 6px groove grey;
+	background-color: white;
+	margin-top: 20px;
+}
+	
+.progress1{
+	background-color: red;
+}
+.progress2{
+	color: blue;
+}
+.progress3{
+	color: green;
+}
+
+.car{
+	width: 200px;
+	height: 200px;
+}

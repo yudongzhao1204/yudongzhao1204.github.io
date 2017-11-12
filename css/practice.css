@@ -1,0 +1,25 @@
+head{
+	 text-align:center;
+}
+
+body{
+	 text-align:center;
+}
+
+.pic{
+	margin:0 auto; 
+	border:1px}
+
+.video{
+	margin:0 auto;
+	height: 3000px;
+	width: 500px;
+}
+
+.div-left{
+	margin-left: 600px;
+}
+
+.div-left{
+	margin-right: 600px;
+}
